@@ -43,11 +43,8 @@ def join(request):
 
                 for category in categorys:
                     person, created = Person.objects.get_or_create(category=category, name=name)
-                    person.phone_num = phone_num
-                    person.pic_url = pic_url
-                    person.save()
 
-                Person.objects.filter(name=name).update()
+                Person.objects.filter(name=name).update(phone_num=phone_num, pic_url=pic_url)
 
                 msg = u'报名成功,谢谢~'
                 success = True

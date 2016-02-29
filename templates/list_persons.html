@@ -20,10 +20,8 @@
         <ul data-role="listview">
             {% for person in r.persons %}
                 <li>
-{#                    <img src="{{ person.pic_url }}">#}
-{#                    <h2>{{ person.name }}</h2>#}
-{#                    <p>{{ person.phone_num }}</p>#}
-                    <span>{{ person.name }}</span>
+                    <img src="{{ person.pic_url }}">
+                    <h2>{{ person.name }}</h2>
                     {% if person.phone_num %}
                         <span class="ui-li-count">tel: {{ person.phone_num }}</span>
                     {% endif %}
