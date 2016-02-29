@@ -27,8 +27,6 @@ def join(request):
             msg = u'请填写姓名'
         elif not phone_num:
             msg = u'请填写手机号'
-        elif not pic:
-            msg = u'请添加照片'
         else:
             try:
                 im = Image.open(pic)
