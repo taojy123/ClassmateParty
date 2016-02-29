@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
+import os
+import uuid
 
+from PIL import Image
 from django.shortcuts import render_to_response
-
-from classmate_party.decorators import need_wechat_oauth_login_if_open_in_wechat
-
 from models import *
 
 
@@ -16,23 +16,46 @@ def join(request):
 
     category_choice = Person.CATEGORY_CHOICE
 
-    title = u'活动报名'
-
     if request.method == 'POST':
+        categorys = request.POST.getlist('category')
         name = request.POST.get('name')
-        if not name:
+        phone_num = request.POST.get('phone_num')
+        pic = request.FILES.get('pic')
+        if not categorys:
+            msg = u'请勾选报名项目'
+        elif not name:
             msg = u'请填写姓名'
+        elif not phone_num:
+            msg = u'请填写手机号'
+        elif not pic:
+            msg = u'请添加照片'
         else:
-            phone_num = request.POST.get('phone_num')
-            if Person.objects.filter(name=name).exists():
-                msg = u'请勿重复报名'
-            else:
-                person = Person()
-                person.category = ''
-                person.name = name
-                person.phone_num = phone_num
-                person.save()
+            try:
+                im = Image.open(pic)
+                w, h = im.size
+                if h > 500:
+                    r = h / 500.0
+                    w = int(w / r)
+                    h = int(h / r)
+                    im = im.resize((w, h))
+                filename = "static/header/%s.png" % uuid.uuid4()
+                path = os.path.join(os.getcwd(), filename)
+                im.save(path)
+                pic_url = '/' + filename
+
+                for category in categorys:
+                    person, created = Person.objects.get_or_create(category=category, name=name)
+                    person.phone_num = phone_num
+                    person.pic_url = pic_url
+                    person.save()
+
+                Person.objects.filter(name=name).update()
+
                 msg = u'报名成功,谢谢~'
+                success = True
+
+            except:
+                msg = u'请上传正确的图片文件'
 
     return render_to_response('join.html', locals())
 

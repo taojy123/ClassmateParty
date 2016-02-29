@@ -9,7 +9,7 @@
 
 
 {% block title %}
-    {{ title }}
+    活动报名
 {% endblock %}
 
 
@@ -21,34 +21,37 @@
 {% block content %}
 <form method="post" action="./">
 
-    <div data-role="fieldcontain">
+    {% if msg %}
+        <p class="msg">{{ msg }}</p>
+    {% endif %}
 
-        {% if msg %}
-            <p class="msg">{{ msg }}</p>
-        {% endif %}
+    {% if not success %}
+
+        <div data-role="fieldcontain">
+
+            <fieldset data-role="controlgroup">
+                <legend>请选择要报名的项目:</legend>
+                {% for category, category_display in category_choice %}
+                    <label for="{{ category }}">{{ category_display }}</label>
+                    <input type="checkbox" name="category" id="{{ category }}" value="{{ category }}">
+                {% endfor %}
+            </fieldset>
 
 
-        <fieldset data-role="controlgroup">
-            <legend>请选择要报名的项目:</legend>
-            {% for category, category_display in category_choice %}
-                <label for="{{ category }}">{{ category_display }}</label>
-                <input type="checkbox" name="category" id="{{ category }}" value="{{ category }}">
-            {% endfor %}
-        </fieldset>
+            <p><input type="text" name="name"  placeholder="请输入您的姓名"></p>
 
+            <p><input type="text" name="phone_num" placeholder="联系方式"></p>
 
-        <p><input type="text" name="name"  placeholder="请输入您的姓名"></p>
+            <p>
+                <label for="pic">请上传一张您的近期照片:</label>
+                <input type="file" name="pic" id="pic">
+            </p>
 
-        <p><input type="text" name="phone_num" placeholder="联系方式"></p>
+            <p><input type="submit" value="提交" id="submit"></p>
 
-        <p>
-            <label for="pic">请上传一张您的近期照片 作为报名头像:</label>
-            <input type="file" name="pic" id="pic">
-        </p>
+        </div>
 
-        <p><input type="submit" value="完成" id="submit"></p>
-
-    </div>
+    {% endif %}
 
 </form>
 
