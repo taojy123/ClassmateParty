@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+
+
+{% block back %}
+    <a href="/" data-role="button" data-icon="arrow-l" data-iconpos="notext" data-ajax="false">返回</a>
+{% endblock %}
+
+
+
+{% block title %}
+    {{ title }}
+{% endblock %}
+
+
+{% block option %}
+    <a href="#" data-role="button" data-icon="plus" data-iconpos="notext" onclick="$('#submit').click()">完成</a>
+{% endblock %}
+
+
+{% block content %}
+<form method="post" action="./">
+
+    <div data-role="fieldcontain">
+
+        {% if msg %}
+            <p class="msg">{{ msg }}</p>
+        {% endif %}
+
+        <p><input type="text" name="name"  placeholder="请输入您的姓名"></p>
+
+        <p><input type="text" name="phone_num" placeholder="联系方式(选填)"></p>
+
+        <p><input type="submit" value="完成" id="submit"></p>
+
+    </div>
+
+</form>
+
+{% endblock %}
+
+

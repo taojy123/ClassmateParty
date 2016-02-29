@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+
+
+
+{% block title %}
+    30周年同学聚会
+{% endblock %}
+
+
+{% block content %}
+
+    <div class="qrcode_apple" style="width:0px;height:0px;overflow: hidden;">
+        <img src="/static/share.png">
+    </div>
+
+    <div class="activity">
+        <h2>活动一</h2>
+        <p>
+           内容: 5月6日晚餐 AA制
+        </p>
+        <p>
+           时间: 2016年5月6日 18:00 (13:00开始进场)
+        </p>
+        <p>
+           地点: 市区, 暂定澳门路红子鸡店
+        </p>
+        <p>
+            <a href="/join/activity_1/" data-role="button" data-ajax="false">我要参加</a>
+        </p>
+    </div>
+
+    <div class="activity">
+        <h2>活动二</h2>
+        <p>
+           内容: 5月7日农家乐 AA制.
+        </p>
+        <p>
+           时间: 2016年5月7日 全天
+        </p>
+        <p>
+           地点: 郊区, 暂定嘉定
+        </p>
+        <p>
+            <a href="/join/activity_1/" data-role="button" data-ajax="false">我要参加</a>
+        </p>
+    </div>
+
+    <div class="remark">
+        <h2>备注</h2>
+        <p>
+            1. 报名时间4月10日前,以便统计人员及安排正式地点
+        </p>
+        <p>
+            2. 外地同学请填写是否住宿,其费用由活动经费分摊
+        </p>
+        <p>
+            3. 活动负责人:周志康  活动秘书长:冯国平
+        </p>
+        <p>
+            <a href="/join/hotel_56/" data-role="button" data-ajax="false">我要5月6日住宿</a>
+            <a href="/join/hotel_57/" data-role="button" data-ajax="false">我要5月7日住宿</a>
+        </p>
+    </div>
+
+    <p>
+        <a href="/list/persons/" data-role="button" data-ajax="false" class="blue">查看报名名单</a>
+    </p>
+
+{% endblock %}
+

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+
+
+{% block back %}
+    <a href="/" data-role="button" data-icon="arrow-l" data-iconpos="notext" data-ajax="false">返回</a>
+{% endblock %}
+
+
+
+{% block title %}
+    报名名单统计
+{% endblock %}
+
+
+
+{% block content %}
+    {% for r in rs %}
+        <h4 class="blue">{{ r.category_display }} (共{{ r.count }}人)</h4>
+        <ul data-role="listview">
+            {% for person in r.persons %}
+                <li>
+{#                    <img src="{{ person.pic_url }}">#}
+{#                    <h2>{{ person.name }}</h2>#}
+{#                    <p>{{ person.phone_num }}</p>#}
+                    <span>{{ person.name }}</span>
+                    {% if person.phone_num %}
+                        <span class="ui-li-count">tel: {{ person.phone_num }}</span>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+
+    {% endfor %}
+{% endblock %}
+

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+
+
+{% block head %}
+    <style>
+      .fieldcontain input, .fieldcontain select{
+        width: 95%;
+      }
+    </style>
+{% endblock %}
+        
+
+
+{% block back %}
+    <a href="/bookmarks" data-role="button" data-icon="arrow-l" data-iconpos="notext">返回</a>
+{% endblock %}
+
+
+
+{% block title %}
+    添加新书签
+{% endblock %}
+
+
+{% block option %}
+    <a href="#" data-role="button" data-icon="plus" data-iconpos="notext" onclick="$(#'submit').click()">完成</a>
+{% endblock %}
+
+
+{% block content %}
+<form method="get" action=".">
+
+  <div data-role="fieldcontain">
+
+
+    <input type="text" name="name"  placeholder="名称">
+
+    <input type="text" name="url" placeholder="网址">
+
+    <input type="date" name="time" >
+
+    <select name="category_id" >
+      <option value="">--</option>
+      {% for c in categorys %}
+        <option value="{{ c.id }}">{{ c.name }}</option>
+      {% endfor %}
+    </select>
+
+    <input type="submit" value="完成" >
+
+  </div>
+  
+</form>
+
+{% endblock %}
+
+
