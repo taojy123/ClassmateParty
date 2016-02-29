@@ -19,7 +19,7 @@
 
 
 {% block content %}
-<form method="post" action="./">
+<form method="post" action="./" enctype="multipart/form-data" data-ajax="false">
 
     {% if msg %}
         <p class="msg">{{ msg }}</p>

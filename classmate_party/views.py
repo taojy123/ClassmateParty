@@ -29,16 +29,15 @@ def join(request):
             msg = u'请填写手机号'
         else:
             try:
-                filename = "static/header/%s.png" % uuid.uuid4()
-                path = os.path.join(os.getcwd(), filename)
-                open(path, 'wb').write(pic.read())
-                im = Image.open(path)
+                im = Image.open(pic)
                 w, h = im.size
                 if h > 500:
                     r = h / 500.0
                     w = int(w / r)
                     h = int(h / r)
                     im = im.resize((w, h))
+                filename = "static/header/%s.png" % uuid.uuid4()
+                path = os.path.join(os.getcwd(), filename)
                 im.save(path)
                 pic_url = '/' + filename
 
