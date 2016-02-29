@@ -27,9 +27,24 @@
             <p class="msg">{{ msg }}</p>
         {% endif %}
 
+
+        <fieldset data-role="controlgroup">
+            <legend>请选择要报名的项目:</legend>
+            {% for category, category_display in category_choice %}
+                <label for="{{ category }}">{{ category_display }}</label>
+                <input type="checkbox" name="category" id="{{ category }}" value="{{ category }}">
+            {% endfor %}
+        </fieldset>
+
+
         <p><input type="text" name="name"  placeholder="请输入您的姓名"></p>
 
         <p><input type="text" name="phone_num" placeholder="联系方式(选填)"></p>
+
+        <p>
+            <label for="pic">请上传一张您的照片:</label>
+            <input type="file" name="pic" id="pic">
+        </p>
 
         <p><input type="submit" value="完成" id="submit"></p>
 

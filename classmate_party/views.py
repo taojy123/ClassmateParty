@@ -11,12 +11,12 @@ def index(request):
     return render_to_response('index.html', locals())
 
 
-def join(request, category):
+def join(request):
     msg = ''
 
-    category_display = dict(Person.CATEGORY_CHOICE).get(category)
+    category_choice = Person.CATEGORY_CHOICE
 
-    title = u'报名 %s' % category_display
+    title = u'活动报名'
 
     if request.method == 'POST':
         name = request.POST.get('name')
@@ -24,11 +24,11 @@ def join(request, category):
             msg = u'请填写姓名'
         else:
             phone_num = request.POST.get('phone_num')
-            if Person.objects.filter(category=category, name=name).exists():
+            if Person.objects.filter(name=name).exists():
                 msg = u'请勿重复报名'
             else:
                 person = Person()
-                person.category = category
+                person.category = ''
                 person.name = name
                 person.phone_num = phone_num
                 person.save()

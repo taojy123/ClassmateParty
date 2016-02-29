@@ -17,7 +17,7 @@ urlpatterns = patterns('',
     ('^$', index),
     ('^index/$', index),
 
-    ('^join/(.*?)/$', join),
+    ('^join/$', join),
     ('^list/persons/$', list_persons),
 
 )
