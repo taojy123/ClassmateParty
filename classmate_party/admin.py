@@ -6,6 +6,7 @@ from .models import Person
 
 class PersonAdmin(admin.ModelAdmin):
     list_display = ('category', 'name')
+    list_filter = ('category', )
 
 
 admin.site.register(Person, PersonAdmin)

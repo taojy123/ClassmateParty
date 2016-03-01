@@ -1,0 +1,1364 @@
+[29/Feb/2016 18:38:40] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 18:38:41] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 18:40:31] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 18:40:31] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 18:40:38] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:40:39] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 18:40:41] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 18:53:22] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 18:53:22] "GET /static/share.png HTTP/1.1" 200 16038
+[29/Feb/2016 18:53:25] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 18:53:25] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 18:53:53] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:54:28] "POST /join/activity_1/ HTTP/1.1" 200 2279
+[29/Feb/2016 18:54:34] "POST /join/activity_1/ HTTP/1.1" 200 2274
+[29/Feb/2016 18:54:38] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:54:42] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:54:56] "POST /join/activity_1/ HTTP/1.1" 200 2277
+[29/Feb/2016 18:55:02] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:55:05] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:55:17] "POST /join/activity_1/ HTTP/1.1" 200 2277
+[29/Feb/2016 18:55:22] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:55:29] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:55:32] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:55:40] "GET /join/hotel_56/ HTTP/1.1" 200 2223
+[29/Feb/2016 18:55:57] "POST /join/hotel_56/ HTTP/1.1" 200 2284
+[29/Feb/2016 18:56:01] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:56:05] "GET /join/hotel_57/ HTTP/1.1" 200 2223
+[29/Feb/2016 18:56:16] "POST /join/hotel_57/ HTTP/1.1" 200 2284
+[29/Feb/2016 18:56:19] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:56:22] "GET /list/persons/ HTTP/1.1" 200 2724
+[29/Feb/2016 18:56:41] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:56:43] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:56:48] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:56:51] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:56:53] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:56:55] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:57:07] "POST /join/activity_1/ HTTP/1.1" 200 2277
+[29/Feb/2016 18:57:11] "POST /join/activity_1/ HTTP/1.1" 200 2274
+[29/Feb/2016 18:57:14] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:57:40] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:57:42] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:58:02] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 18:58:11] "POST /join/activity_1/ HTTP/1.1" 200 2279
+[29/Feb/2016 18:58:13] "POST /join/activity_1/ HTTP/1.1" 200 2274
+[29/Feb/2016 18:58:15] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 18:58:15] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 18:58:19] "GET /list/persons/ HTTP/1.1" 200 2844
+[29/Feb/2016 19:00:03] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 19:00:09] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 19:00:35] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 19:00:36] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 19:00:41] "GET /list/persons/ HTTP/1.1" 200 2844
+[29/Feb/2016 19:59:32] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 19:59:33] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 19:59:33] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 19:59:41] "GET /list/persons/ HTTP/1.1" 200 2844
+[29/Feb/2016 20:00:22] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 20:00:22] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 20:03:19] "GET /admin HTTP/1.1" 301 0
+[29/Feb/2016 20:03:19] "GET /admin/ HTTP/1.1" 302 0
+[29/Feb/2016 20:03:19] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[29/Feb/2016 20:03:19] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[29/Feb/2016 20:03:19] "GET /static/admin/css/login.css HTTP/1.1" 200 940
+[29/Feb/2016 20:03:19] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[29/Feb/2016 20:03:19] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 20:03:21] "GET /static/admin/img/nav-bg-reverse.gif HTTP/1.1" 200 178
+[29/Feb/2016 20:03:21] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[29/Feb/2016 20:03:21] "GET /admin/ HTTP/1.1" 200 6387
+[29/Feb/2016 20:03:22] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[29/Feb/2016 20:03:22] "GET /static/admin/img/default-bg.gif HTTP/1.1" 200 836
+[29/Feb/2016 20:03:22] "GET /static/admin/img/icon_addlink.gif HTTP/1.1" 200 119
+[29/Feb/2016 20:03:22] "GET /static/admin/img/icon_deletelink.gif HTTP/1.1" 200 181
+[29/Feb/2016 20:03:22] "GET /static/admin/img/icon_changelink.gif HTTP/1.1" 200 119
+[29/Feb/2016 20:03:23] "GET /admin/classmate_party/person/ HTTP/1.1" 200 5399
+[29/Feb/2016 20:03:23] "GET /static/admin/css/changelists.css HTTP/1.1" 200 5254
+[29/Feb/2016 20:03:23] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 20:03:23] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[29/Feb/2016 20:03:23] "GET /static/admin/img/tooltag-add.png HTTP/1.1" 200 119
+[29/Feb/2016 20:03:38] "POST /admin/classmate_party/person/ HTTP/1.1" 200 2719
+[29/Feb/2016 20:03:40] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[29/Feb/2016 20:03:40] "GET /admin/classmate_party/person/ HTTP/1.1" 200 5257
+[29/Feb/2016 20:03:40] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 20:03:40] "GET /static/admin/img/icon_success.gif HTTP/1.1" 200 341
+[29/Feb/2016 20:04:54] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 20:04:54] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 20:04:59] "GET /join/activity_2/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:06:02] "GET /list/persons/ HTTP/1.1" 200 2626
+[29/Feb/2016 20:06:10] "GET /join/activity_2/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:06:26] "POST /join/activity_2/ HTTP/1.1" 200 2279
+[29/Feb/2016 20:06:33] "POST /join/activity_2/ HTTP/1.1" 200 2274
+[29/Feb/2016 20:06:43] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 20:06:44] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 20:06:48] "GET /list/persons/ HTTP/1.1" 200 2749
+[29/Feb/2016 20:07:09] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:07:19] "POST /join/activity_1/ HTTP/1.1" 200 2279
+[29/Feb/2016 20:07:22] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:07:25] "GET /list/persons/ HTTP/1.1" 200 2872
+[29/Feb/2016 20:07:29] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:07:31] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:07:39] "POST /join/activity_1/ HTTP/1.1" 200 2279
+[29/Feb/2016 20:07:41] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:07:44] "GET /list/persons/ HTTP/1.1" 200 2992
+[29/Feb/2016 20:08:10] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:08:14] "POST /join/activity_1/ HTTP/1.1" 200 2274
+[29/Feb/2016 20:08:22] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:08:35] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:09:14] "POST /join/activity_1/ HTTP/1.1" 200 2274
+[29/Feb/2016 20:09:18] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:09:22] "GET /join/activity_1/ HTTP/1.1" 200 2218
+[29/Feb/2016 20:10:34] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3321
+[29/Feb/2016 20:10:34] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 20:10:35] "GET /favicon.ico HTTP/1.1" 404 2514
+[29/Feb/2016 20:10:52] "GET /join/hotel_56/ HTTP/1.1" 200 2223
+[29/Feb/2016 20:18:26] "GET /admin/classmate_party/person/ HTTP/1.1" 200 5930
+[29/Feb/2016 20:18:26] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 20:18:26] "GET /static/admin/js/jquery.js HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[29/Feb/2016 20:18:26] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[29/Feb/2016 20:18:29] "GET / HTTP/1.1" 200 3321
+[29/Feb/2016 20:18:30] "GET /static/share.png HTTP/1.1" 200 16038
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 18:38:39
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 20:38:14] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:38:15] "GET /static/share.png HTTP/1.1" 200 16038
+[29/Feb/2016 20:38:29] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:38:29] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:38:30] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 20:38:30] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 20:39:02] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:39:30] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:39:31] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:39:42] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:40:05] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:40:54] "POST /join/ HTTP/1.1" 200 3203
+[29/Feb/2016 20:41:05] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:41:08] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:41:20] "GET /list/persons/ HTTP/1.1" 200 2992
+[29/Feb/2016 20:41:22] "GET /list/persons HTTP/1.1" 301 0
+[29/Feb/2016 20:41:22] "GET /list/persons/ HTTP/1.1" 200 2992
+[29/Feb/2016 20:41:25] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:41:53] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:41:57] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:42:27] "POST /join/ HTTP/1.1" 200 3203
+[29/Feb/2016 20:42:34] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:42:37] "GET /list/persons/ HTTP/1.1" 200 2992
+[29/Feb/2016 20:42:45] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:42:46] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 20:44:03] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 20:44:29] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:44:49] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:45:12] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 20:45:12] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 20:45:27] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:46:47] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:53:53] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 20:53:53] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 20:53:54] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 20:54:25] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:55:31] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:55:37] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 20:55:43] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 20:57:48] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:58:38] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:59:47] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 20:59:50] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 20:59:59] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 21:00:16] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 21:01:04] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 21:01:11] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 21:02:36] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 21:03:02] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 21:03:05] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 21:03:07] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 21:03:33] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 21:04:32] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 21:04:40] "POST /join/ HTTP/1.1" 200 3198
+[29/Feb/2016 21:04:41] "GET / HTTP/1.1" 200 2939
+[29/Feb/2016 21:04:45] "GET /list/persons/ HTTP/1.1" 200 2992
+[29/Feb/2016 21:05:13] "GET /join/ HTTP/1.1" 200 3142
+[29/Feb/2016 21:05:21] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 21:05:21] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:05:27] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2939
+[29/Feb/2016 21:05:27] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:07:56] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:07:57] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:08:11] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:08:11] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:08:20] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:08:41] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:08:45] "GET /admin/classmate_party/person/ HTTP/1.1" 200 6453
+[29/Feb/2016 21:08:45] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 21:08:45] "GET /static/admin/js/jquery.js HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[29/Feb/2016 21:08:45] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[29/Feb/2016 21:08:50] "POST /admin/classmate_party/person/ HTTP/1.1" 200 3758
+[29/Feb/2016 21:08:52] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[29/Feb/2016 21:08:52] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3322
+[29/Feb/2016 21:08:52] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 21:08:57] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:08:59] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:09:38] "POST /join/ HTTP/1.1" 200 3214
+[29/Feb/2016 21:10:08] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:10:13] "GET /list/persons/ HTTP/1.1" 200 2254
+[29/Feb/2016 21:10:23] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:10:23] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 21:11:31] "GET /list/persons/ HTTP/1.1" 200 2254
+[29/Feb/2016 21:11:34] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:11:41] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:12:04] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:12:06] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:12:44] "POST /join/ HTTP/1.1" 200 3214
+[29/Feb/2016 21:12:56] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:13:47] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:13:57] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:13:57] "GET /static/share.png HTTP/1.1" 200 16038
+[29/Feb/2016 21:14:34] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:14:34] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:14:37] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:14:38] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:15:19] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:15:26] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:15:32] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:15:41] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:15:42] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:15:45] "GET /static/share.png HTTP/1.1" 200 16038
+[29/Feb/2016 21:16:00] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:16:06] "GET /static/share.png HTTP/1.1" 200 16038
+[29/Feb/2016 21:17:21] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:17:26] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:17:26] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:18:29] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:19:05] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:19:34] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:20:04] "GET /list/persons/ HTTP/1.1" 200 2254
+[29/Feb/2016 21:20:19] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:20:27] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:21:06] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:22:08] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 21:22:42] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:22:42] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:22:47] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:22:47] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 21:22:53] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 21:23:21] "POST /join/ HTTP/1.1" 200 3209
+[29/Feb/2016 21:24:08] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:24:43] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:25:17] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:25:37] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 21:25:42] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 22:04:18] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2934
+[29/Feb/2016 22:04:18] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:04:18] "GET /favicon.ico HTTP/1.1" 404 2508
+[29/Feb/2016 22:04:31] "GET /join/ HTTP/1.1" 200 3153
+[29/Feb/2016 22:04:35] "POST /join/ HTTP/1.1" 200 3209
+[29/Feb/2016 22:04:41] "GET / HTTP/1.1" 200 2934
+[29/Feb/2016 22:05:02] "GET /join/ HTTP/1.1" 200 3153
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 20:38:08
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 22:12:25] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[29/Feb/2016 22:12:26] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:12:52] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:12:52] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:13:17] "GET /join/ HTTP/1.1" 200 3243
+[29/Feb/2016 22:13:34] "POST /join/ HTTP/1.1" 200 3294
+[29/Feb/2016 22:13:56] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:13:58] "GET /join/ HTTP/1.1" 200 3243
+[29/Feb/2016 22:14:33] "POST /join/ HTTP/1.1" 200 3291
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:11:51
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 22:16:00] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:16:07] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[29/Feb/2016 22:16:07] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:16:24] "GET /join/ HTTP/1.1" 200 3243
+[29/Feb/2016 22:16:48] "POST /join/ HTTP/1.1" 200 3306
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:15:56
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 31, in join
+    im = Image.open(pic)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2000, in open
+    prefix = fp.read(16)
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:18:00] "POST /join/ HTTP/1.1" 500 11465
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 31, in join
+    im = Image.open(pic)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2000, in open
+    prefix = fp.read(16)
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:18:01] "POST /join/ HTTP/1.1" 500 11465
+[29/Feb/2016 22:18:03] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:18:05] "GET /join/ HTTP/1.1" 200 3243
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 31, in join
+    im = Image.open(pic)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2000, in open
+    prefix = fp.read(16)
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:18:38] "POST /join/ HTTP/1.1" 500 11467
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 31, in join
+    im = Image.open(pic)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2000, in open
+    prefix = fp.read(16)
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:20:27] "POST /join/ HTTP/1.1" 500 11467
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 31, in join
+    im = Image.open(pic)
+  File "/usr/lib/python2.7/dist-packages/PIL/Image.py", line 2000, in open
+    prefix = fp.read(16)
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:20:34] "POST /join/ HTTP/1.1" 500 11467
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:17:23
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 22:25:08] "POST /join/ HTTP/1.1" 200 3306
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:24:40
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 33, in join
+    open(path, 'wb').write(pic.read())
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:26:54] "POST /join/ HTTP/1.1" 500 11397
+[29/Feb/2016 22:27:00] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:27:00] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:27:02] "GET /join/ HTTP/1.1" 200 3243
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 33, in join
+    open(path, 'wb').write(pic.read())
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:27:21] "POST /join/ HTTP/1.1" 500 11394
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 33, in join
+    open(path, 'wb').write(pic.read())
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:27:23] "POST /join/ HTTP/1.1" 500 11394
+[29/Feb/2016 22:27:54] "GET /join/ HTTP/1.1" 200 3243
+Internal Server Error: /join/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/ClassmateParty/classmate_party/views.py", line 33, in join
+    open(path, 'wb').write(pic.read())
+AttributeError: 'NoneType' object has no attribute 'read'
+[29/Feb/2016 22:28:10] "POST /join/ HTTP/1.1" 500 11704
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:25:56
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 22:34:35] "POST /join/ HTTP/1.1" 200 3354
+[29/Feb/2016 22:35:46] "POST /join/ HTTP/1.1" 200 2027
+[29/Feb/2016 22:35:50] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:35:51] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:36:02] "GET /list/persons/ HTTP/1.1" 200 3569
+[29/Feb/2016 22:36:18] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:36:20] "GET /join/ HTTP/1.1" 200 3291
+[29/Feb/2016 22:36:55] "POST /join/ HTTP/1.1" 200 2027
+[29/Feb/2016 22:37:02] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:37:05] "GET /list/persons/ HTTP/1.1" 200 4208
+[29/Feb/2016 22:37:13] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:37:15] "GET /join/ HTTP/1.1" 200 3291
+[29/Feb/2016 22:37:35] "POST /join/ HTTP/1.1" 200 2027
+[29/Feb/2016 22:37:38] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:37:40] "GET /list/persons/ HTTP/1.1" 200 4411
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:34:25
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[29/Feb/2016 22:41:21] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:41:22] "GET /join/ HTTP/1.1" 200 3272
+[29/Feb/2016 22:41:41] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:41:50] "GET /list/persons/ HTTP/1.1" 200 5077
+[29/Feb/2016 22:41:50] "GET /list/persons/None HTTP/1.1" 404 2526
+[29/Feb/2016 22:41:52] "GET /static/header/fc0f9e90-2b6b-47c5-a4eb-f636b559dfd7.png HTTP/1.1" 200 458150
+[29/Feb/2016 22:41:55] "GET /static/header/7b631795-0531-4851-8756-33b25e7463ac.png HTTP/1.1" 200 435831
+[29/Feb/2016 22:41:57] "GET /static/header/5e64dc68-0b26-4b3a-8e05-be8f9eb75e46.png HTTP/1.1" 200 439008
+[29/Feb/2016 22:47:48] "POST /join/ HTTP/1.1" 200 3335
+[29/Feb/2016 22:47:49] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:47:50] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:47:53] "GET /list/persons/ HTTP/1.1" 200 5077
+[29/Feb/2016 22:47:53] "GET /list/persons/None HTTP/1.1" 404 2526
+[29/Feb/2016 22:47:59] "GET /static/header/fc0f9e90-2b6b-47c5-a4eb-f636b559dfd7.png HTTP/1.1" 200 458150
+[29/Feb/2016 22:48:02] "GET /static/header/7b631795-0531-4851-8756-33b25e7463ac.png HTTP/1.1" 200 435831
+[29/Feb/2016 22:48:03] "GET /static/header/5e64dc68-0b26-4b3a-8e05-be8f9eb75e46.png HTTP/1.1" 200 439008
+[29/Feb/2016 22:48:54] "GET /admin HTTP/1.1" 301 0
+[29/Feb/2016 22:48:54] "GET /admin/ HTTP/1.1" 302 0
+[29/Feb/2016 22:48:54] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[29/Feb/2016 22:49:01] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[29/Feb/2016 22:49:01] "GET /admin/ HTTP/1.1" 200 4354
+[29/Feb/2016 22:49:03] "GET /admin/classmate_party/person/ HTTP/1.1" 200 8022
+[29/Feb/2016 22:49:03] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:49:13] "POST /admin/classmate_party/person/ HTTP/1.1" 200 4629
+[29/Feb/2016 22:49:16] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[29/Feb/2016 22:49:16] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3323
+[29/Feb/2016 22:49:16] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:49:26] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:49:30] "GET /list/persons/ HTTP/1.1" 200 2256
+[29/Feb/2016 22:49:33] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:49:33] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 22:49:35] "GET /join/ HTTP/1.1" 200 3272
+[29/Feb/2016 22:50:02] "POST /join/ HTTP/1.1" 200 2008
+[29/Feb/2016 22:50:05] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:50:15] "GET /list/persons/ HTTP/1.1" 200 2838
+[29/Feb/2016 22:50:17] "GET /static/header/6ab20d85-8189-4956-b118-c199364bf43d.png HTTP/1.1" 200 444017
+[29/Feb/2016 22:50:47] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:50:50] "GET /list/persons/ HTTP/1.1" 200 2838
+[29/Feb/2016 22:50:52] "GET /static/header/6ab20d85-8189-4956-b118-c199364bf43d.png HTTP/1.1" 200 444017
+[29/Feb/2016 22:51:57] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:52:02] "GET /admin HTTP/1.1" 301 0
+[29/Feb/2016 22:52:02] "GET /admin/ HTTP/1.1" 200 6887
+[29/Feb/2016 22:52:03] "GET /admin/classmate_party/person/ HTTP/1.1" 200 4861
+[29/Feb/2016 22:52:03] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:06] "GET /admin/classmate_party/person/ HTTP/1.1" 200 4861
+[29/Feb/2016 22:52:07] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:11] "POST /admin/classmate_party/person/ HTTP/1.1" 200 2870
+[29/Feb/2016 22:52:13] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[29/Feb/2016 22:52:13] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3322
+[29/Feb/2016 22:52:13] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:15] "GET /admin/ HTTP/1.1" 200 6887
+[29/Feb/2016 22:52:16] "GET /admin/sites/site/ HTTP/1.1" 200 5192
+[29/Feb/2016 22:52:17] "GET /static/admin/img/icon_searchbox.png HTTP/1.1" 200 368
+[29/Feb/2016 22:52:17] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:17] "GET /static/admin/img/sorting-icons.gif HTTP/1.1" 200 369
+[29/Feb/2016 22:52:17] "GET /static/admin/img/nav-bg-selected.gif HTTP/1.1" 200 265
+[29/Feb/2016 22:52:20] "GET /admin/auth/group/ HTTP/1.1" 200 3596
+[29/Feb/2016 22:52:20] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:22] "GET /admin/auth/user/ HTTP/1.1" 200 6608
+[29/Feb/2016 22:52:22] "GET /static/admin/img/icon-yes.gif HTTP/1.1" 200 299
+[29/Feb/2016 22:52:22] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[29/Feb/2016 22:52:22] "GET /static/admin/img/changelist-bg.gif HTTP/1.1" 200 50
+[29/Feb/2016 22:52:28] "GET / HTTP/1.1" 200 2916
+[29/Feb/2016 22:52:30] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[29/Feb/2016 22:52:32] "GET /static/share.png HTTP/1.1" 304 0
+[29/Feb/2016 23:06:06] "GET /admin/classmate_party/ HTTP/1.1" 200 2531
+[29/Feb/2016 23:06:07] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3199
+[29/Feb/2016 23:06:07] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 05:36:59] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 05:36:59] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 05:37:00] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 05:37:06] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:37:57] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:24] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:24] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:25] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:27] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:34] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 05:38:37] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:38:40] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:40] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:40] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:40] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:40] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:41] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:41] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:41] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:43] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:44] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:45] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:46] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:47] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:48] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:48] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:50] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:50] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:50] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:51] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:38:52] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 05:38:53] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 05:39:01] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:39:02] "GET /join HTTP/1.1" 301 0
+[01/Mar/2016 05:39:03] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:39:47] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 05:39:52] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 05:39:57] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:39:57] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 05:40:03] "POST /join/ HTTP/1.1" 200 3326
+[01/Mar/2016 05:40:13] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:40:20] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:40:36] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:40:52] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 05:40:55] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 05:40:55] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 200 344382
+[01/Mar/2016 05:41:35] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:42:30] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:42:41] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:42:45] "GET /list/persons/ HTTP/1.1" 200 4024
+[01/Mar/2016 05:42:45] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 304 0
+[01/Mar/2016 05:42:47] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 200 615160
+[01/Mar/2016 05:43:25] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:44:58] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:45:15] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:45:19] "GET /list/persons/ HTTP/1.1" 200 4616
+[01/Mar/2016 05:45:19] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 304 0
+[01/Mar/2016 05:45:19] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:45:22] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 200 610083
+[01/Mar/2016 05:45:49] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:45:55] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:46:28] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 05:47:16] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 05:48:17] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:48:34] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:48:39] "GET /list/persons/ HTTP/1.1" 200 4912
+[01/Mar/2016 05:48:39] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 304 0
+[01/Mar/2016 05:48:39] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:48:39] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:48:40] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 200 311735
+[01/Mar/2016 05:49:26] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:50:57] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:51:12] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:51:23] "GET /list/persons/ HTTP/1.1" 200 5504
+[01/Mar/2016 05:51:24] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:51:24] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 304 0
+[01/Mar/2016 05:51:24] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 05:51:24] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:51:25] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 200 393836
+[01/Mar/2016 05:53:05] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:54:06] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:54:20] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:54:28] "GET /list/persons/ HTTP/1.1" 200 6696
+[01/Mar/2016 05:54:28] "GET /static/header/13331fe9-194b-4bb6-9409-8b439a37a29c.png HTTP/1.1" 304 0
+[01/Mar/2016 05:54:28] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:54:28] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 05:54:28] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 05:54:28] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:54:31] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 200 599713
+[01/Mar/2016 05:55:14] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:55:51] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:56:00] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:56:03] "GET /list/persons/ HTTP/1.1" 200 6700
+[01/Mar/2016 05:56:04] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:56:04] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 05:56:04] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:56:04] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 05:56:04] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 05:56:05] "GET /static/header/6fc1091f-9574-425a-bb1c-bbff7405ec3c.png HTTP/1.1" 200 346262
+[01/Mar/2016 05:56:46] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:57:31] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:57:34] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:57:38] "GET /list/persons/ HTTP/1.1" 200 6700
+[01/Mar/2016 05:57:38] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:57:38] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 05:57:38] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 05:57:38] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 05:57:38] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:57:39] "GET /static/header/8cf5e457-c335-4060-bc4a-410f6e542f99.png HTTP/1.1" 200 344382
+[01/Mar/2016 05:58:41] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 05:59:29] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 05:59:32] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 05:59:35] "GET /list/persons/ HTTP/1.1" 200 6700
+[01/Mar/2016 05:59:35] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 05:59:35] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 05:59:35] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 05:59:35] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 05:59:35] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 05:59:36] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 200 313096
+[01/Mar/2016 06:00:46] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 06:00:58] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 06:01:01] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 06:01:06] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 06:01:08] "GET /list/persons/ HTTP/1.1" 200 6700
+[01/Mar/2016 06:01:09] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 06:01:09] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 06:01:09] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 06:01:09] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 06:01:09] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:08] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 06:09:08] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 06:09:11] "GET /list/persons/ HTTP/1.1" 200 6700
+[01/Mar/2016 06:09:11] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:11] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:11] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:11] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:11] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 06:09:11] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 06:14:42] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 06:26:14] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 06:26:15] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 06:26:22] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 06:30:30] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 06:30:40] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 06:30:45] "GET /list/persons/ HTTP/1.1" 200 7292
+[01/Mar/2016 06:30:45] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:45] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:45] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:45] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:45] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:45] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 06:30:46] "GET /static/header/e88e9c02-be11-4f9c-83d6-210d347a7781.png HTTP/1.1" 200 311735
+[01/Mar/2016 06:32:16] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 06:32:17] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 06:32:19] "GET /list/persons/ HTTP/1.1" 200 7292
+[01/Mar/2016 06:32:19] "GET /static/header/e88e9c02-be11-4f9c-83d6-210d347a7781.png HTTP/1.1" 304 0
+[01/Mar/2016 06:32:25] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 06:32:30] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 06:33:02] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 06:35:00] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 06:35:03] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 06:36:22] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 06:36:29] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 06:36:34] "GET /list/persons/ HTTP/1.1" 200 7589
+[01/Mar/2016 06:36:35] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/e88e9c02-be11-4f9c-83d6-210d347a7781.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 06:36:35] "GET /static/header/e98e7714-c932-401a-bd36-3d1fb0f69259.png HTTP/1.1" 200 225022
+[01/Mar/2016 06:37:03] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 07:36:37] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 07:36:37] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 07:36:38] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 07:36:42] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 07:37:14] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 07:38:04] "POST /join/ HTTP/1.1" 200 3335
+[01/Mar/2016 07:42:02] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 07:42:51] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 07:44:35] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 07:44:39] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 07:44:58] "GET /list/persons/ HTTP/1.1" 200 8171
+[01/Mar/2016 07:44:58] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/e88e9c02-be11-4f9c-83d6-210d347a7781.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/e98e7714-c932-401a-bd36-3d1fb0f69259.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:58] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 07:44:59] "GET /static/header/f314e21a-ca9f-49a8-96c6-7948a373eee1.png HTTP/1.1" 200 275480
+[01/Mar/2016 12:09:45] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:09:46] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 12:09:46] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:09:48] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:10:41] "POST /join/ HTTP/1.1" 200 2008
+[01/Mar/2016 12:10:57] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 12:10:59] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:11:28] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 12:11:32] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:11:32] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:11:34] "GET /list/persons/ HTTP/1.1" 200 8755
+[01/Mar/2016 12:11:35] "GET /static/header/f7d02023-379d-42f6-8b69-7fa0caa421e3.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/3c9f9556-febb-453f-a3a5-69a8be647ff2.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/ee909f95-a41f-47cc-ace9-067b8b5e3835.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/162e8cd9-4fe6-4741-9422-8bcb74f08323.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/16d9630b-dfae-451c-b337-583f9b4ec859.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/e88e9c02-be11-4f9c-83d6-210d347a7781.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/f314e21a-ca9f-49a8-96c6-7948a373eee1.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/e98e7714-c932-401a-bd36-3d1fb0f69259.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/1bc58c5a-df7d-4743-821e-2b987097cf7a.png HTTP/1.1" 304 0
+[01/Mar/2016 12:11:35] "GET /static/header/6fa76e8d-1ba5-44ce-8a70-3be6239ad7c3.png HTTP/1.1" 200 339359
+[01/Mar/2016 12:11:55] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:11:56] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:11:59] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:12:18] "POST /join/ HTTP/1.1" 200 3326
+[01/Mar/2016 12:12:32] "POST /join/ HTTP/1.1" 200 3320
+[01/Mar/2016 12:13:01] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:13:02] "GET /favicon.ico HTTP/1.1" 404 2508
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 29, 2016 - 22:40:47
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[01/Mar/2016 12:46:03] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:46:04] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:46:06] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:46:09] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 12:46:09] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 12:46:10] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:46:10] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 12:46:12] "GET /list/persons/ HTTP/1.1" 200 3869
+[01/Mar/2016 12:46:12] "GET /list/persons/None HTTP/1.1" 404 2526
+[01/Mar/2016 12:46:12] "GET /static/header/72926cc7-b933-460c-b82d-a30825bbb58f.png HTTP/1.1" 200 97537
+[01/Mar/2016 12:46:13] "GET /list/persons/ HTTP/1.1" 200 3869
+[01/Mar/2016 12:46:13] "GET /list/persons/None HTTP/1.1" 404 2526
+[01/Mar/2016 12:46:13] "GET /static/header/72926cc7-b933-460c-b82d-a30825bbb58f.png HTTP/1.1" 200 97537
+[01/Mar/2016 12:46:17] "GET /admin/ HTTP/1.1" 302 0
+[01/Mar/2016 12:46:17] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[01/Mar/2016 12:46:19] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[01/Mar/2016 12:46:19] "GET /admin/ HTTP/1.1" 200 4354
+[01/Mar/2016 12:46:20] "GET /admin/classmate_party/person/ HTTP/1.1" 200 6940
+[01/Mar/2016 12:46:20] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 12:46:25] "POST /admin/classmate_party/person/ HTTP/1.1" 200 4037
+[01/Mar/2016 12:46:27] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[01/Mar/2016 12:46:27] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3323
+[01/Mar/2016 12:46:27] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 12:46:34] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:48:31] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 12:48:42] "GET /list/persons/ HTTP/1.1" 200 2834
+[01/Mar/2016 12:48:42] "GET /static/header/b9a22475-2a49-4807-9613-25343d5214cd.png HTTP/1.1" 200 344382
+[01/Mar/2016 12:49:04] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 12:49:13] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:50:00] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 12:50:10] "GET /list/persons/ HTTP/1.1" 200 4006
+[01/Mar/2016 12:50:11] "GET /static/header/b9a22475-2a49-4807-9613-25343d5214cd.png HTTP/1.1" 304 0
+[01/Mar/2016 12:50:11] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 200 381873
+[01/Mar/2016 12:50:41] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:50:41] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 12:50:43] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:51:27] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 12:51:47] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 12:51:55] "GET /list/persons/ HTTP/1.1" 200 4289
+[01/Mar/2016 12:51:55] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 304 0
+[01/Mar/2016 12:51:56] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 200 339359
+[01/Mar/2016 12:53:09] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 12:59:21] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 12:59:21] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 12:59:33] "GET /list/persons/ HTTP/1.1" 200 4289
+[01/Mar/2016 12:59:36] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 200 339359
+[01/Mar/2016 12:59:37] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 200 381873
+[01/Mar/2016 13:00:11] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:00:14] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:00:18] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:00:26] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:00:33] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 13:44:13] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 13:44:13] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 13:44:14] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 13:44:14] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 13:44:17] "GET /list/persons/ HTTP/1.1" 200 4289
+[01/Mar/2016 13:44:17] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 304 0
+[01/Mar/2016 13:44:17] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 304 0
+[01/Mar/2016 13:44:34] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:44:36] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:45:08] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 13:45:56] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 13:46:03] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:46:07] "GET /list/persons/ HTTP/1.1" 200 4289
+[01/Mar/2016 13:46:10] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:46:12] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:46:54] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 13:46:59] "GET /list/persons/ HTTP/1.1" 200 4863
+[01/Mar/2016 13:47:00] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 200 313096
+[01/Mar/2016 13:47:25] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:47:27] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:48:24] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 13:48:27] "GET /list/persons/ HTTP/1.1" 200 5445
+[01/Mar/2016 13:48:27] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 304 0
+[01/Mar/2016 13:48:28] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 200 295981
+[01/Mar/2016 13:48:58] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 13:48:59] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 13:49:07] "GET /list/persons/ HTTP/1.1" 200 5445
+[01/Mar/2016 13:49:12] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 200 339359
+[01/Mar/2016 13:49:15] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 200 295981
+[01/Mar/2016 13:49:15] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 200 313096
+[01/Mar/2016 13:49:17] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 200 381873
+[01/Mar/2016 13:49:59] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:51:12] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 13:51:20] "GET /list/persons/ HTTP/1.1" 200 6025
+[01/Mar/2016 13:51:20] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:20] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:21] "GET /static/header/c532dd07-069e-4319-b44c-ade117f6f198.png HTTP/1.1" 200 293494
+[01/Mar/2016 13:51:27] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 13:51:31] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:51:34] "GET /list/persons/ HTTP/1.1" 200 6025
+[01/Mar/2016 13:51:35] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:35] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:35] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:35] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 304 0
+[01/Mar/2016 13:51:36] "GET /static/header/c532dd07-069e-4319-b44c-ade117f6f198.png HTTP/1.1" 200 293494
+[01/Mar/2016 13:52:58] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:53:58] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 13:54:02] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 13:54:03] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 13:54:11] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:13:28] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 17:13:28] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:29] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 17:13:31] "GET /list/persons/ HTTP/1.1" 200 6025
+[01/Mar/2016 17:13:31] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:31] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:31] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:31] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:31] "GET /static/header/c532dd07-069e-4319-b44c-ade117f6f198.png HTTP/1.1" 304 0
+[01/Mar/2016 17:13:44] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:13:47] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:13:51] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:14:16] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:14:24] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:14:31] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:15:53] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 17:16:04] "GET /list/persons/ HTTP/1.1" 200 6910
+[01/Mar/2016 17:16:04] "GET /static/header/478ae6c8-05ce-4ee8-b870-ff8616dd7524.png HTTP/1.1" 200 636130
+[01/Mar/2016 17:16:35] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:16:41] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:16:43] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 17:16:58] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:17:16] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 17:17:19] "GET /list/persons/ HTTP/1.1" 200 6910
+[01/Mar/2016 17:17:19] "GET /static/header/478ae6c8-05ce-4ee8-b870-ff8616dd7524.png HTTP/1.1" 304 0
+[01/Mar/2016 19:41:16] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 19:41:16] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 19:41:17] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 19:41:17] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:41:17] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:41:19] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 19:42:02] "POST /join/ HTTP/1.1" 200 3323
+[01/Mar/2016 19:42:21] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 19:42:25] "GET /list/persons/ HTTP/1.1" 200 6910
+[01/Mar/2016 19:42:25] "GET /static/header/bed24e83-ed36-4258-ae8d-67ab30cde3fd.png HTTP/1.1" 304 0
+[01/Mar/2016 19:42:25] "GET /static/header/c5eefa82-cc74-4d1b-8338-8e015ba9c1e3.png HTTP/1.1" 304 0
+[01/Mar/2016 19:42:25] "GET /static/header/49256442-2464-4793-a632-b3e0558d8d58.png HTTP/1.1" 304 0
+[01/Mar/2016 19:42:25] "GET /static/header/f0515cd3-0054-4fcc-b3c1-7cb27da68572.png HTTP/1.1" 304 0
+[01/Mar/2016 19:42:25] "GET /static/header/c532dd07-069e-4319-b44c-ade117f6f198.png HTTP/1.1" 304 0
+[01/Mar/2016 19:42:25] "GET /static/header/478ae6c8-05ce-4ee8-b870-ff8616dd7524.png HTTP/1.1" 304 0
+[01/Mar/2016 19:43:23] "GET /admin HTTP/1.1" 301 0
+[01/Mar/2016 19:43:23] "GET /admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:43:23] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[01/Mar/2016 19:43:23] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[01/Mar/2016 19:43:23] "GET /static/admin/css/login.css HTTP/1.1" 200 940
+[01/Mar/2016 19:43:23] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[01/Mar/2016 19:43:25] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:43:25] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:44:11] "GET /static/admin/img/nav-bg-reverse.gif HTTP/1.1" 200 178
+[01/Mar/2016 19:44:11] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:44:11] "GET /admin/ HTTP/1.1" 200 6887
+[01/Mar/2016 19:44:12] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[01/Mar/2016 19:44:12] "GET /static/admin/img/default-bg.gif HTTP/1.1" 200 836
+[01/Mar/2016 19:44:12] "GET /static/admin/img/icon_addlink.gif HTTP/1.1" 200 119
+[01/Mar/2016 19:44:12] "GET /static/admin/img/icon_changelink.gif HTTP/1.1" 200 119
+[01/Mar/2016 19:44:12] "GET /static/admin/img/icon_deletelink.gif HTTP/1.1" 200 181
+[01/Mar/2016 19:44:25] "GET /admin/classmate_party/person/ HTTP/1.1" 200 8610
+[01/Mar/2016 19:44:26] "GET /static/admin/css/changelists.css HTTP/1.1" 200 5254
+[01/Mar/2016 19:44:26] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 19:44:26] "GET /static/admin/js/core.js HTTP/1.1" 200 7522
+[01/Mar/2016 19:44:26] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 4464
+[01/Mar/2016 19:44:26] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[01/Mar/2016 19:44:26] "GET /static/admin/js/actions.js HTTP/1.1" 200 4910
+[01/Mar/2016 19:44:26] "GET /static/admin/js/jquery.js HTTP/1.1" 200 284184
+[01/Mar/2016 19:44:28] "GET /static/admin/img/tooltag-add.png HTTP/1.1" 200 119
+[01/Mar/2016 19:45:22] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:45:40] "GET /admin HTTP/1.1" 301 0
+[01/Mar/2016 19:45:40] "GET /admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:45:41] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[01/Mar/2016 19:45:41] "GET /static/admin/css/login.css HTTP/1.1" 200 940
+[01/Mar/2016 19:45:41] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[01/Mar/2016 19:45:41] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[01/Mar/2016 19:46:06] "GET /admin HTTP/1.1" 301 0
+[01/Mar/2016 19:46:06] "GET /admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:46:06] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[01/Mar/2016 19:53:12] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:53:13] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 19:53:13] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 19:53:19] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 19:53:39] "GET /admin HTTP/1.1" 301 0
+[01/Mar/2016 19:53:39] "GET /admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:53:39] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1919
+[01/Mar/2016 19:53:39] "GET /static/admin/css/base.css HTTP/1.1" 200 14049
+[01/Mar/2016 19:53:39] "GET /static/admin/css/login.css HTTP/1.1" 200 940
+[01/Mar/2016 19:53:39] "GET /static/admin/img/nav-bg.gif HTTP/1.1" 200 265
+[01/Mar/2016 19:53:49] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[01/Mar/2016 19:53:50] "GET /admin/ HTTP/1.1" 200 6887
+[01/Mar/2016 19:53:50] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[01/Mar/2016 19:53:50] "GET /static/admin/img/default-bg.gif HTTP/1.1" 200 836
+[01/Mar/2016 19:53:50] "GET /static/admin/img/icon_addlink.gif HTTP/1.1" 200 119
+[01/Mar/2016 19:53:50] "GET /static/admin/img/icon_changelink.gif HTTP/1.1" 200 119
+[01/Mar/2016 19:53:50] "GET /static/admin/img/icon_deletelink.gif HTTP/1.1" 200 181
+[01/Mar/2016 19:53:56] "GET /admin/ HTTP/1.1" 200 6887
+[01/Mar/2016 19:54:15] "GET /admin/classmate_party/person/ HTTP/1.1" 200 8610
+[01/Mar/2016 19:54:15] "GET /static/admin/css/changelists.css HTTP/1.1" 200 5254
+[01/Mar/2016 19:54:15] "GET /static/admin/js/core.js HTTP/1.1" 200 7522
+[01/Mar/2016 19:54:15] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 19:54:15] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[01/Mar/2016 19:54:15] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 4464
+[01/Mar/2016 19:54:15] "GET /static/admin/js/actions.js HTTP/1.1" 200 4910
+[01/Mar/2016 19:54:15] "GET /static/admin/js/jquery.js HTTP/1.1" 200 284184
+[01/Mar/2016 19:54:17] "GET /static/admin/img/nav-bg-reverse.gif HTTP/1.1" 200 178
+[01/Mar/2016 19:54:17] "GET /static/admin/img/tooltag-add.png HTTP/1.1" 200 119
+[01/Mar/2016 19:58:58] "GET /admin/classmate_party/person/?o=1 HTTP/1.1" 200 9288
+[01/Mar/2016 19:58:59] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 19:59:00] "GET /static/admin/img/nav-bg-selected.gif HTTP/1.1" 200 265
+[01/Mar/2016 19:59:00] "GET /static/admin/img/sorting-icons.gif HTTP/1.1" 200 369
+[01/Mar/2016 19:59:48] "POST /admin/classmate_party/person/?o=1 HTTP/1.1" 200 4943
+[01/Mar/2016 19:59:53] "POST /admin/classmate_party/person/?o=1 HTTP/1.1" 302 0
+[01/Mar/2016 19:59:53] "GET /admin/classmate_party/person/?o=1 HTTP/1.1" 200 3349
+[01/Mar/2016 19:59:53] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 19:59:53] "GET /static/admin/img/icon_success.gif HTTP/1.1" 200 341
+[01/Mar/2016 20:00:17] "GET /admin/ HTTP/1.1" 200 6887
+[01/Mar/2016 20:00:18] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:00:25] "GET /admin/classmate_party/person/ HTTP/1.1" 200 3199
+[01/Mar/2016 20:00:25] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 20:07:14] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:07:15] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:07:52] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:07:55] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:08:06] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:08:07] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 20:08:08] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:08:11] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:09:04] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:09:04] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:11:28] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:12:37] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:12:37] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:12:38] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:12:40] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:13:33] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:13:34] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:13:36] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:15:13] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:15:17] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:16:02] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:16:14] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:17:22] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 20:17:22] "GET /static/share.png HTTP/1.1" 304 0
+[01/Mar/2016 20:18:20] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:18:24] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:18:24] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:18:25] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:18:27] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:18:31] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:19:19] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:19:21] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:19:38] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:19:40] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:19:41] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:19:47] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:19:47] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:19:48] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:19:49] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:20:05] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:20:05] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:20:15] "GET /list/persons/ HTTP/1.1" 200 2256
+[01/Mar/2016 20:20:21] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:20:59] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 20:20:59] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:21:00] "GET /favicon.ico HTTP/1.1" 404 2509
+[01/Mar/2016 20:21:03] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 20:21:18] "GET /list/persons/ HTTP/1.1" 200 2844
+[01/Mar/2016 20:21:20] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 610083
+[01/Mar/2016 20:21:32] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:22:10] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:22:11] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:22:27] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:22:27] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:22:29] "GET /list/persons/ HTTP/1.1" 200 2844
+[01/Mar/2016 20:22:30] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:22:42] "GET /list/persons/ HTTP/1.1" 200 2844
+[01/Mar/2016 20:22:43] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:22:49] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:22:52] "POST /join/ HTTP/1.1" 200 3338
+[01/Mar/2016 20:22:54] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:22:55] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:22:58] "POST /join/ HTTP/1.1" 200 2107
+[01/Mar/2016 20:22:59] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:22:59] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:23:00] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 251557
+[01/Mar/2016 20:23:02] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:23:05] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 251557
+[01/Mar/2016 20:23:07] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 610083
+[01/Mar/2016 20:23:23] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:23:25] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:23:26] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:23:28] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:23:28] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:23:28] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 304 0
+[01/Mar/2016 20:26:19] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:26:19] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:26:22] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:26:22] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:26:22] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 304 0
+[01/Mar/2016 20:27:10] "GET /?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:27:10] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:27:34] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:27:34] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:27:47] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:27:47] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:27:55] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:27:58] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 251557
+[01/Mar/2016 20:28:00] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 610083
+[01/Mar/2016 20:28:14] "GET /list/persons/ HTTP/1.1" 200 3715
+[01/Mar/2016 20:28:17] "GET /static/header/085945b5-73b0-483f-bb7f-17f4543f9bb8.png HTTP/1.1" 200 70660
+[01/Mar/2016 20:28:20] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 251557
+[01/Mar/2016 20:28:26] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 610083
+[01/Mar/2016 20:28:27] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:28:34] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 20:28:34] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:28:39] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:28:46] "GET /admin/ HTTP/1.1" 200 6887
+[01/Mar/2016 20:28:47] "GET /admin/classmate_party/person/ HTTP/1.1" 200 5662
+[01/Mar/2016 20:28:47] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 20:28:53] "POST /admin/classmate_party/person/ HTTP/1.1" 200 2721
+[01/Mar/2016 20:28:55] "POST /admin/classmate_party/person/ HTTP/1.1" 302 0
+[01/Mar/2016 20:28:55] "GET /admin/classmate_party/person/ HTTP/1.1" 200 5516
+[01/Mar/2016 20:28:55] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[01/Mar/2016 20:28:56] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:28:57] "GET /favicon.ico HTTP/1.1" 404 2508
+[01/Mar/2016 20:28:59] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:28:59] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 304 0
+[01/Mar/2016 20:28:59] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 304 0
+[01/Mar/2016 20:29:08] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:29:10] "GET / HTTP/1.1" 200 2916
+[01/Mar/2016 20:29:11] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:29:13] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:29:16] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 278528
+- Broken pipe from ('101.90.126.87', 19213)
+[01/Mar/2016 20:29:16] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 196608
+- Broken pipe from ('101.90.126.87', 19214)
+[01/Mar/2016 20:29:16] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:29:19] "GET /list/persons/ HTTP/1.1" 200 3432
+[01/Mar/2016 20:29:23] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 200 251557
+[01/Mar/2016 20:29:26] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 200 610083
+[01/Mar/2016 20:29:35] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:29:38] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:29:57] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:29:58] "GET /static/share.png HTTP/1.1" 200 16038
+[01/Mar/2016 20:30:21] "POST /join/ HTTP/1.1" 200 3338
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 01, 2016 - 12:46:00
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[01/Mar/2016 20:30:32] "GET /join/ HTTP/1.1" 200 3272
+[01/Mar/2016 20:30:33] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:33] "GET /static/share.png HTTP/1.1" 500 59
+[01/Mar/2016 20:30:37] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:30:38] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:38] "GET /static/share.png HTTP/1.1" 500 59
+[01/Mar/2016 20:30:40] "GET /list/persons/ HTTP/1.1" 200 3432
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:41] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:41] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 500 59
+[01/Mar/2016 20:30:52] "GET /list/persons/ HTTP/1.1" 200 3432
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:52] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:30:52] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 500 59
+[01/Mar/2016 20:31:00] "GET / HTTP/1.1" 200 2916
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:31:00] "GET /static/share.png HTTP/1.1" 500 59
+[01/Mar/2016 20:31:00] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:31:04] "GET /list/persons/ HTTP/1.1" 200 3432
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:31:05] "GET /static/header/b16f2582-8bcd-496b-aa2e-0dc3cc3d0482.png HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:31:05] "GET /static/header/5de9a686-ef99-46ef-84cf-d7e0dfe714fe.png HTTP/1.1" 500 59
+[01/Mar/2016 20:31:06] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 64, in __call__
+    return super(StaticFilesHandler, self).__call__(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 189, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 54, in get_response
+    return self.serve(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 47, in serve
+    return serve(request, self.file_path(request.path), insecure=True)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/views.py", line 34, in serve
+    absolute_path = finders.find(normalized_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 249, in find
+    for finder in get_finders():
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 264, in get_finders
+    yield get_finder(finder_path)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 101, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 277, in get_finder
+    return Finder()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py", line 66, in __init__
+    "The STATICFILES_DIRS setting should "
+ImproperlyConfigured: The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting
+[01/Mar/2016 20:31:07] "GET /static/share.png HTTP/1.1" 500 59
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 01, 2016 - 20:30:26
+Django version 1.8.4, using settings 'classmate_party.settings'
+Starting development server at http://0.0.0.0:3030/
+Quit the server with CONTROL-C.
+/root/ClassmateParty
+[01/Mar/2016 20:31:15] "GET /?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2916
+[01/Mar/2016 20:31:15] "GET /static/share.png HTTP/1.1" 404 1757
+[01/Mar/2016 20:31:21] "GET /join/ HTTP/1.1" 200 3272
