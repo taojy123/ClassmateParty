@@ -23,7 +23,7 @@
                     <img src="{{ person.pic_url }}">
                     <h2>{{ person.name }}</h2>
                     {% if person.phone_num %}
-                        <span class="ui-li-count">tel: {{ person.phone_num }}</span>
+                        <span class="ui-li-count">{{ person.phone_num }}</span>
                     {% endif %}
                 </li>
             {% endfor %}

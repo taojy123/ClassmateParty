@@ -25,7 +25,13 @@
         <p class="msg">{{ msg }}</p>
     {% endif %}
 
-    {% if not success %}
+    {% if success %}
+
+        <h1>报名成功,谢谢~</h1>
+
+        <a href="/list/persons/" data-role="button" data-ajax="false" class="blue">查看报名名单</a>
+
+    {% else %}
 
         <div data-role="fieldcontain">
 

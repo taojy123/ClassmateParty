@@ -46,11 +46,10 @@ def join(request):
 
                 Person.objects.filter(name=name).update(phone_num=phone_num, pic_url=pic_url)
 
-                msg = u'报名成功,谢谢~'
                 success = True
 
             except:
-                msg = u'请上传正确的图片文件'
+                msg = u'请上传一张您的近期照片'
 
     return render_to_response('join.html', locals())
 
