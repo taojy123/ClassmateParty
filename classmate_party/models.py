@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import json
 
 from django.db import models
 
@@ -25,6 +26,13 @@ class Person(models.Model):
     pic_url = models.CharField(max_length=255, blank=True, null=True)
     update_time = models.DateTimeField(auto_now=True)
     extra = models.TextField(blank=True, null=True)
+
+    @property
+    def num(self):
+        if not self.extra:
+            return 1
+        extra = json.loads(self.extra)
+        return int(extra.get('num', 1))
 
 
 
