@@ -2,9 +2,9 @@
 
 from django.contrib import admin
 from .models import Person
+from .custom_model_admin import CustomModelAdmin
 
-
-class PersonAdmin(admin.ModelAdmin):
+class PersonAdmin(CustomModelAdmin):
     list_display = ('category', 'name', 'phone_num', 'update_time', 'location')
     list_filter = ('category', )
 
