@@ -23,7 +23,7 @@ def join(request):
         pic = request.FILES.get('pic')
         location1 = request.POST.get('location1', '')
         location2 = request.POST.get('location2', '')
-        location = location1 + location2
+        location = location1 + ' ' + location2
         if not categorys:
             msg = u'请勾选报名项目'
         elif not name:
