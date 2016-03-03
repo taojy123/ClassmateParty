@@ -20,11 +20,16 @@
         <ul data-role="listview">
             {% for person in r.persons %}
                 <li>
-                    <img src="{{ person.pic_url }}">
+
+                    <img src="{{ person.pic_url }}" onclick="top.location.href='{{ person.pic_url }}'">
+
                     <h2>{{ person.name }}</h2>
-                    <p>{{ person.num }} 人</p>
+                    <p>
+                        {{ person.update_time|date:"Y-m-d H:i:s" }}
+                        {{ person.location }}
+                    </p>
                     {% if person.phone_num %}
-                        <span class="ui-li-count">{{ person.phone_num }}</span>
+                        <span class="ui-li-count">{{ person.phone_num_display }}</span>
                     {% endif %}
                 </li>
             {% endfor %}

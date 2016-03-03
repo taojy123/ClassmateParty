@@ -21,9 +21,7 @@ def join(request):
         name = request.POST.get('name')
         phone_num = request.POST.get('phone_num')
         pic = request.FILES.get('pic')
-        num = request.POST.get('num', 1)
-        if not num:
-            num = 1
+        location = request.POST.get('location', '')
         if not categorys:
             msg = u'请勾选报名项目'
         elif not name:
@@ -47,8 +45,11 @@ def join(request):
                 for category in categorys:
                     person, created = Person.objects.get_or_create(category=category, name=name)
 
-                extra = json.dumps({'num': num})
-                Person.objects.filter(name=name).update(phone_num=phone_num, pic_url=pic_url, extra=extra)
+                Person.objects.filter(name=name).update(
+                    phone_num=phone_num,
+                    pic_url=pic_url,
+                    location=location
+                )
 
                 success = True
 
@@ -66,10 +67,7 @@ def list_persons(request):
         r = {}
         r['category_display'] = category_display
         r['persons'] = Person.objects.filter(category=category).order_by('update_time')
-        count = 0
-        for person in r['persons']:
-            count += person.num
-        r['count'] = count
+        r['count'] = r['persons'].count
         rs.append(r)
 
     return render_to_response('list_persons.html', locals())
