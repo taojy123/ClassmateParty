@@ -26,7 +26,7 @@
                     <h2>{{ person.name }}</h2>
                     <p>
                         {{ person.update_time|date:"Y-m-d H:i:s" }}
-                        {{ person.location }}
+                        {{ person.location|default:'' }}
                     </p>
                     {% if person.phone_num %}
                         <span class="ui-li-count">{{ person.phone_num_display }}</span>
