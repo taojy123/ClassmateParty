@@ -23,16 +23,14 @@ class Person(models.Model):
     phone_num = models.CharField(max_length=64, blank=True, null=True)
     open_id = models.CharField(max_length=255, blank=True, null=True)
     nickname = models.CharField(max_length=255, blank=True, null=True)
+    location = models.CharField(max_length=255, blank=True, null=True)
     pic_url = models.CharField(max_length=255, blank=True, null=True)
     update_time = models.DateTimeField(auto_now=True)
     extra = models.TextField(blank=True, null=True)
 
     @property
-    def num(self):
-        if not self.extra:
-            return 1
-        extra = json.loads(self.extra)
-        return int(extra.get('num', 1))
+    def phone_num_display(self):
+        return self.phone_num[:-8] + "****" + self.phone_num[-4:]
 
 
 
