@@ -73,7 +73,7 @@ def list_persons(request):
     for category, category_display in Person.CATEGORY_CHOICE:
         r = {}
         r['category_display'] = category_display
-        r['persons'] = Person.objects.filter(category=category).order_by('update_time')
+        r['persons'] = Person.objects.filter(category=category).order_by('-update_time')
         r['count'] = r['persons'].count
         rs.append(r)
 
