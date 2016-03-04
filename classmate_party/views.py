@@ -44,14 +44,19 @@ def join(request):
                 im.save(path)
                 pic_url = '/' + filename
 
+                modify_persons = []
                 for category in categorys:
                     person, created = Person.objects.get_or_create(category=category, name=name)
+                    modify_persons.append(person)
 
-                Person.objects.filter(name=name).update(
-                    phone_num=phone_num,
-                    pic_url=pic_url,
-                    location=location
-                )
+                for person in Person.objects.filter(name=name):
+                    update_fields = ['phone_num', 'pic_url', 'location']
+                    if person in modify_persons:
+                        update_fields.append('update_time')
+                    person.phone_num = phone_num
+                    person.pic_url = pic_url
+                    person.location = location
+                    person.save(update_fields=update_fields)
 
                 success = True
 
