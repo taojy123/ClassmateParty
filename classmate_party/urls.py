@@ -20,6 +20,8 @@ urlpatterns = patterns('',
     ('^join/$', join),
     ('^list/persons/$', list_persons),
 
+    ('^persons/(.*?)/rotate_picture/$', rotate_picture),
+
 )
 # This will work if DEBUG is True
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
