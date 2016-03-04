@@ -3,7 +3,7 @@ import os
 import uuid
 
 from PIL import Image
-from django.shortcuts import render_to_response
+from django.shortcuts import render_to_response, HttpResponseRedirect
 from models import *
 
 
@@ -80,3 +80,13 @@ def list_persons(request):
     return render_to_response('list_persons.html', locals())
 
 
+def rotate_picture(request, person_id):
+
+    person = Person.objects.get(id=person_id)
+
+    pic_path = person.pic_url.strip('/')
+    im = Image.open(pic_path)
+    im = im.rotate(90)
+    im.save(pic_path)
+
+    return HttpResponseRedirect('/admin/classmate_party/person/%s/' % person_id)
