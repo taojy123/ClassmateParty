@@ -53,8 +53,6 @@ def join(request):
                     update_fields = ['phone_num', 'pic_url', 'location']
                     if person in modify_persons:
                         update_fields.append('update_time')
-                        person.phone_num = ''
-                        person.save()
                     person.phone_num = phone_num
                     person.pic_url = pic_url
                     person.location = location
