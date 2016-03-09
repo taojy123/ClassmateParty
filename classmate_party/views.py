@@ -108,7 +108,7 @@ def mini_header(request, pic_name):
         im.save(mini_path)
 
     s = open(mini_path, "rb").read()
-    response = HttpResponse(s, mimetype="application/octet-stream")
+    response = HttpResponse(s, content_type="application/octet-stream")
     response['Content-Disposition'] = 'attachment; filename=%s' % pic_name
     return response
 
