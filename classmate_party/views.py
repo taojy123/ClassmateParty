@@ -100,8 +100,8 @@ def mini_header(request, pic_name):
     if not os.path.exists(mini_path):
         im = Image.open(pic_path)
         w, h = im.size
-        if h > 50:
-            r = h / 50.0
+        if h > 100:
+            r = h / 100.0
             w = int(w / r)
             h = int(h / r)
             im = im.resize((w, h))
