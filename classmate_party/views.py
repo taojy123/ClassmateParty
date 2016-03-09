@@ -3,7 +3,7 @@ import os
 import uuid
 
 from PIL import Image
-from django.shortcuts import render_to_response, HttpResponseRedirect
+from django.shortcuts import render_to_response, HttpResponseRedirect, HttpResponse
 from models import *
 
 
@@ -90,3 +90,25 @@ def rotate_picture(request, person_id):
     im.save(pic_path)
 
     return HttpResponseRedirect('/admin/classmate_party/person/%s/' % person_id)
+
+
+def mini_header(request, pic_name):
+
+    mini_path = os.path.join(os.getcwd(), 'static', 'mini', pic_name)
+    pic_path = os.path.join(os.getcwd(), 'static', 'header', pic_name)
+
+    if not os.path.exists(mini_path):
+        im = Image.open(pic_path)
+        w, h = im.size
+        if h > 500:
+            r = h / 500.0
+            w = int(w / r)
+            h = int(h / r)
+            im = im.resize((w, h))
+        im.save(mini_path)
+
+    s = open(mini_path, "rb").read()
+    response = HttpResponse(s, mimetype="application/octet-stream")
+    response['Content-Disposition'] = 'attachment; filename=%s' % pic_name
+    return response
+
