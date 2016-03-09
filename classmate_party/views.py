@@ -89,6 +89,11 @@ def rotate_picture(request, person_id):
     im = im.rotate(90)
     im.save(pic_path)
 
+    try:
+        os.remove(pic_path.replace('header', 'mini'))
+    except:
+        pass
+
     return HttpResponseRedirect('/admin/classmate_party/person/%s/' % person_id)
 
 
