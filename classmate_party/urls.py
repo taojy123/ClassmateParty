@@ -22,6 +22,8 @@ urlpatterns = patterns('',
 
     ('^persons/(.*?)/rotate_picture/$', rotate_picture),
 
+    ('^mini/header/(.*?)/$', mini_header),
+
 )
 # This will work if DEBUG is True
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns

@@ -32,5 +32,7 @@ class Person(models.Model):
     def phone_num_display(self):
         return self.phone_num[:-8] + "****" + self.phone_num[-4:]
 
-
+    @property
+    def mini_pic_url(self):
+        return self.pic_url.replace('static', 'mini')
 
